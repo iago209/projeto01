@@ -11,13 +11,15 @@
   "dependencies": {
     "@headlessui/react": "^2.2.2",
     "@heroicons/react": "^2.2.0",
+    "@supabase/supabase-js": "^2.49.8",
     "cleave.js": "^1.6.0",
     "framer-motion": "^12.10.0",
     "lucide-react": "^0.507.0",
     "next": "15.3.1",
-    "react": "^19.0.0",
-    "react-dom": "^19.0.0",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
     "react-input-mask": "^3.0.0-alpha.2",
+    "swiper": "^11.2.7",
     "zod": "^3.24.4"
   },
   "devDependencies": {
